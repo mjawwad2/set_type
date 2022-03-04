@@ -1,37 +1,6 @@
-[comment]: <> (Do not remove this!)
-![Points badge](../../blob/badges/.github/badges/points.svg)
-
-> **Note:** It will take 2-5 minutes for the points to update after you push.
->
-> **Late Days:** I am using 0 late days
-
-Original assignment by Varick Erickson. Copyright (c) 2021 Varick Erickson.
 
 
-## Deliverables
-
-| Deliverable                  | Points  |
-| ---------------------------- | -------:|
-| Add/Contains                 |  5      |
-| Remove                       |  5      |
-| Assignment/MakeEmpty         |  5      |
-| Iterator                     |  5      |
-| Overload Add/Remove          |  5      |
-| Union                        |  5      |
-| Difference                   |  5      |
-| Intersection                 |  5      |
-| Rehash                       |  5      |
-| Questions                    |  15     |
-| Commits                      |  5      |
-| Commenting                   |  5      |
-| **Total**                    | **70**  |
-
-The same standards for committing and commenting apply for this assignment
-as previous assignments. You should have pre/post comments in the header
-files at minimum as well as general comments.  You should be committing
-and pushing regularly.
-
-## Questions (15 points)
+## Questions
 
 1. (1 pt/entry) Complete the following tables of Big-Oh. 
 
